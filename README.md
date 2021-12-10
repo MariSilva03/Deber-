@@ -10,3 +10,5 @@ tr --> translación de caracteres
 2# Deber
  Escriba un guión que imprima el número de filas y columnas para cada red 
  Uso del For
+ El uso del bucle for permite repetir una tarea con ligeras variaciones
+ El bucle for comprende al do y done. Porque es importante para su ejecución
