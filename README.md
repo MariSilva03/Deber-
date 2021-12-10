@@ -4,8 +4,8 @@
   Para este ejercicio trabajaré con  el archivo n10 
   cat sirve para imprimir los arcivos que contiene , ya sea (fila 1, fila2...) 
   wc -l--> cuenta el número de un determinado archivo
-   " La siguiente instrucción va a contar el número de lineas "
-head --> permite vizualizar las primeras 10 filas "
+   " La siguiente instrucción va a contar el número de lineas 
+head --> permite vizualizar las primeras 10 filas 
 tr --> translación de caracteres 
 2# Deber
  Escriba un guión que imprima el número de filas y columnas para cada red 
