@@ -1,5 +1,5 @@
 Uso de For 
--for permitir repetir una tarea con ligeras variaciones, generalmente si son tareas
+-for permitir repetir una tarea con ligeras variaciones
 # Estos datos son # de Saavedra 
-1) en nano realizar un conteo general de los archivos
-2) para luego captar como usar el For
+Se realizo en nano un conteo general de los archivos
+ para luego usar for
