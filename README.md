@@ -12,3 +12,4 @@ tr --> translación de caracteres
  Uso del For
  El uso del bucle for permite repetir una tarea con ligeras variaciones
  El bucle for comprende al do y done. Porque es importante para su ejecución
+grep-->  permite  buscar una palabra o patrón y se imprimirá la línea o líneas que la contengan 
