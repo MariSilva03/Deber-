@@ -1,4 +1,4 @@
-# Deber
+1# Deber
  Realice el ejercicio 1.10.3 Plant-Pollinator Networks, página 52 
  Escriba un guión que tome uno de estos archivos y determine el número de filas (polinizadores) y columnas (plantas). 
   Para este ejercicio trabajaré con  el archivo n10 
@@ -7,4 +7,6 @@
    " La siguiente instrucción va a contar el número de lineas "
 head --> permite vizualizar las primeras 10 filas "
 tr --> translación de caracteres 
-
+2# Deber
+ Escriba un guión que imprima el número de filas y columnas para cada red 
+ Uso del For
