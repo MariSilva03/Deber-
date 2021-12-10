@@ -1,0 +1,13 @@
+#Deber Bioformatica 1.10.3 
+## Saavedra y Stouffer--> estudiaron varias redes de plantas y polinizadores.
+Se representa como matrices rectangulares donde las filas se polli-nativos, las columnas plantas, un 0 indica la ausencia y 1 la presencia de un
+Interacción entre la planta y el polinizador. 
+- Intrucciones de comandos
+-Usaremos el archivo n3.txt 
+# n de columnas
+-imprime cat ../ Saavedra2013 / n3.txt | wc -l
+-cat imprime contenido de los archivos 
+-wc -l Cuenta solo líneas 
+#n de filas 
+-head muestra las filas (lo que pongamos) 
+-tr translasion de caracteres de un archivo 
